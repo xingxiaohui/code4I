@@ -31,3 +31,15 @@ https://snailclimb.gitee.io/javaguide/#/docs/java/basic/final,static,this,super
 
 java 反射机制
 https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/basis/%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6.md
+
+2020/10/22
+代理模式与静态代理
+https://snailclimb.gitee.io/javaguide/#/docs/java/basis/%E9%9D%99%E6%80%81%E4%BB%A3%E7%90%86+JDK,CGLIB%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E5%AE%9E%E6%88%98
+
+每日一题
+https://leetcode-cn.com/problems/partition-labels/
+
+BIO,NIO,AIO 总结
+https://snailclimb.gitee.io/javaguide/#/docs/java/basis/BIO,NIO,AIO%E6%80%BB%E7%BB%93
+
+
