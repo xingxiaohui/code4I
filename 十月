@@ -50,6 +50,15 @@ https://leetcode-cn.com/problems/palindrome-linked-list/
 本周学习总结
 
 
+2020/10/26
+每日一题
+https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+有多少小于当前数字的数字，思路：双指针遍历比较，将结果保存到数组
+
+java集合框架
+https://snailclimb.gitee.io/javaguide/#/docs/java/collection/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98
+
+
 
 
 
