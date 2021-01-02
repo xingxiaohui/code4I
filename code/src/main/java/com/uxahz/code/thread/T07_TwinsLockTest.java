@@ -2,7 +2,8 @@ package com.uxahz.code.thread;
 
 import java.util.concurrent.locks.Lock;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+
 
 public class T07_TwinsLockTest {
 
