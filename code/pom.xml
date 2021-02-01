@@ -38,16 +38,14 @@
 		<dependency>
 		    <groupId>junit</groupId>
 		    <artifactId>junit</artifactId>
-		    <version>4.13.1</version>
 		    <scope>test</scope>
 		</dependency>
-        
-        
+		
         <!-- https://mvnrepository.com/artifact/org.freemarker/freemarker -->
-	<dependency>
-    	<groupId>org.freemarker</groupId>
-    	<artifactId>freemarker</artifactId>
-    </dependency>
+		<dependency>
+	    	<groupId>org.freemarker</groupId>
+	    	<artifactId>freemarker</artifactId>
+	    </dependency>
 	</dependencies>
 	
 	<repositories>

@@ -18,4 +18,12 @@ public class BuyHouseProxyTest {
 				new Class[] {BuyHouse.class},new DynamicProxyHandler(buyHouse));
 		buyHouseProxy.buy();
 	}
+	
+	@Test
+	public void test3() {
+		CglibProxy proxy = new CglibProxy();
+		BuyHouse buyHouse =new BuyhouseImpl();
+		BuyhouseImpl buyHouseProxy = (BuyhouseImpl) proxy.getInstence(buyHouse);
+		buyHouseProxy.buy();
+	}
 }
